@@ -8,5 +8,6 @@
 ## Sobre o projeto
 
 Essa é uma APi para o curso de Quasar: Desenvolvimento Web: construindo aplicação de maneira rápida
+
 Como a API usa um banco de dados SQlite, você só precisa configurar o .env e rodar sua aplicação com `php artisan serve` Claro, você precisa ter o php instalado ai na sua máquina e as extensões ativas
 
