@@ -11,3 +11,15 @@ Essa é uma APi para o curso de Quasar: Desenvolvimento Web: construindo aplica�
 
 Como a API usa um banco de dados SQlite, você só precisa configurar o .env e rodar sua aplicação com `php artisan serve` Claro, você precisa ter o php instalado ai na sua máquina e as extensões ativas
 
+## Passo a passo para utilizar
+
+- Baixa o PHP
+- Coloca nas variáveis de ambiente
+- Habilita a extensão pdo_sqlite e sqlite
+- Clona o projeto
+- Cria o arquivo `.env`
+- Gera a key: `php artisan key:generate`
+- Rode `php artisan migrate --seed`
+
+Segue o curso
+
